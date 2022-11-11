@@ -1,17 +1,17 @@
-## Movie Recommender System
-Content based movie recommender system
+# Movie Recommender System
+## Content based movie recommender system
 * Downloaded TMDB 5000 Movie Dataset from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 * Data Preprocessing
 
 * Selected important features as 
-* Genres
-* ID
-* Keywords
-* Title
-* Overview
-* Cast
-* Crew
+  * Genres
+  * ID
+  * Keywords
+  * Title
+  * Overview
+  * Cast
+  * Crew
 
 * Developed movie recommender system by adopting PorterStemmer, CountVectorizer, Cosine similarity
 
