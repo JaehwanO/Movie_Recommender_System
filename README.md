@@ -2,5 +2,5 @@
 Content based movie recommender system
 
 
-https://user-images.githubusercontent.com/111060150/201326126-6ed8fb42-5c00-4ee3-99ee-a065f80f5600.mov
+https://user-images.githubusercontent.com/111060150/201326298-59941441-b28a-4425-bea2-a773a8af5677.mov
 
